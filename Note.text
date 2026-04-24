@@ -1,0 +1,4 @@
+struct Book 
+|--đây là kiểu dữ liệu tự tạo
+|--gom nhiều thông tin liên quan lại thành 1 objiect
+==> 1 quyển sách = 1 biến Book
